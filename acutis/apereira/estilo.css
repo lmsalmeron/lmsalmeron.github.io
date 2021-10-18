@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+}
+h4 {
+    color: #828282;
+}
+img {
+    border-color: red;
+    border-width: 120px;
+}
+
+body {
+    background-color: #F1FDFF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
